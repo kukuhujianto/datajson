@@ -1,0 +1,32 @@
+{
+    "users": [
+    {
+      "id": 1,
+      "nama": "A",
+      "alamat": "Gresik",
+      "umur": 10,
+      "nohp": "08512345678"
+    },
+    {
+      "id": 2,
+      "nama": "B",
+      "alamat": "Gresik",
+      "umur": 11,
+      "nohp": "08598765432"
+    },
+    {
+      "id": 3,
+      "nama": "C",
+      "alamat": "Gresik",
+      "umur": 13,
+      "nohp": "08565432980"
+    },
+    {
+      "id": 4,
+      "nama": "D",
+      "alamat": "Gresik",
+      "umur": 13,
+      "nohp": "08565432980"
+    }
+  ]
+}
